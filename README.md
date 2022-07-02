@@ -11,7 +11,11 @@ Los datos del provienen del dataset: [Road Accident (United Kingdom (UK)) Datase
 
     ! comando 1
     ! comando 2
+    jdskdjjdjjdd
+    d
+    ddkdkd
     
+    dkkd
 después de haber configurado `.kaggle/kaggle.json` ???.
 
 ## Videos
