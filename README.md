@@ -4,6 +4,7 @@
 
 - Felipe Carlos Martínez Mármol, CC 1214747123, Ingeniería Civil
 - Jorge Antonio Franco Vásquez, CC 1069463461, Ingeniería Civil
+- Juan Camilo Tabares Henao, CC 1035230283, Ingenieria Eléctrica
 
 ## Datos
 
