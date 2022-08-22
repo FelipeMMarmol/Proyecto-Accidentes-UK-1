@@ -31,3 +31,5 @@ El Dataset se puede descargar con el siguiente comando:
 Se descargará un comprimido zip con el archivo `.csv` dentro.
 
 ## Videos
+
+[Segunda entrega](https://youtu.be/eOfdpfBO3us)
